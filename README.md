@@ -2,4 +2,4 @@
 <br>
 Harsh Vardhan Pal
 <br>
-only for learning GitHub
+only for learning GitHub fun only
